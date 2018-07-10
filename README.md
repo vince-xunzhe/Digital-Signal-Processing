@@ -1,4 +1,4 @@
 # Digital-Signal-Processing
-### also: Discrete Time Signal Processing: 
+### also: Discrete Time Signal Processing
 ##### Key words: Signal and Systems, Time & Frequency Domain, Fourier Transform, Laplace Transform. <br>
 This project was formed with the assignments and experimrents from the digital processing lecture, and deveploped by Xunzhe Wen. Some of the defined functions are from the open source codes.  
