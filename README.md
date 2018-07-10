@@ -4,7 +4,7 @@
 <br>
 This project was formed with the assignments and experimrents from the digital processing lecture, and some of the defined functions are from the open source codes.<br>
 <br>
-Developer: Xunzhe Wen
+Developer: Xunzhe Wen<br>
 Date: 2015.11
 
 
